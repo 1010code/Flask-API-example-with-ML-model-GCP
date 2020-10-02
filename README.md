@@ -5,3 +5,9 @@
 ### Fork Project
 你可以直接 Fork 此專案到你自己的 GitHub 帳號中，並採用 Heroku 連動 GitHub 專案的方式部署此 API 範例。
 
+### GCP
+
+```
+sudo apt update
+sudo apt install python3 python3-dev python3-venv
+```
